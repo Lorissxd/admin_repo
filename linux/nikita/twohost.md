@@ -7,7 +7,6 @@
 >It help for you to create other virtual network, to connect 2 differnt systems.
 ---
 ## Step 2(Virtuals machines configuration)
-
 >**Note**
 >The next step we will need to configure, both virtual machines to connect each other.
 >The ways to do it is differnt for both machines, so im gonna separete this step for kali and ubuntu softwares.
