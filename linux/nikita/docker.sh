@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TIMEFORMAT='Script was runned %R seconds.'
+TIMEFORMAT='Script during time is %R seconds.'
 time {
     docker stop donotest >/dev/null 2>/dev/null
     docker rm donotest >/dev/null 2>/dev/null
